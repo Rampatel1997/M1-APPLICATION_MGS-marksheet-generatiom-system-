@@ -1,5 +1,5 @@
 WHO:
-Every institute and college who gives the certification can they can use it.
+Every institute and college who gives the certification  they can use it.
 WHAT:
 A report which tells the all progress, work done and activities in the particular field.
 WHEN:
