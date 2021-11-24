@@ -74,26 +74,26 @@ Using various packages such as cufflinks, seaborn & matplotlib to represent the 
 Machine Learning Algorithms used:>
 
 
-Linear Regression
-ElasticNet Regression
-Random Forest
-Extra Trees
-SVM
-Gradient Boosted
-Baseline
-Experimental Results
-KDE Plot to view all attributes using cufflinks
-Box Plot to view all attributes using cufflinks
-Histogram Plot for G3 (Final Grade) using cufflinks
-Pictorial representation of any null data present in the dataset.
-Count Plot for Student Sex Attribute
-Kernel Density Estimation for Age of Students.
-Count PLot for Male & Female students in different age groups.
-Count Plot for students from Urban & Rural Region.
-Does age affect final grade?
-Do urban students perform better than rural students?
-Previous Failures vs Final Grade(G3)
-Family Education vs Final Grade(G3)
-Higher Education vs Final Grade(G3)
-Go Out vs Final Grade(G3)
-Reason vs Students Count
+>Linear Regression
+>ElasticNet Regression
+>Random Forest
+>Extra Trees
+>SVM
+>Gradient Boosted
+>Baseline
+>Experimental Results
+>KDE Plot to view all attributes using cufflinks
+>Box Plot to view all attributes using cufflinks
+>Histogram Plot for G3 (Final Grade) using cufflinks
+>Pictorial representation of any null data present in the dataset.
+>Count Plot for Student Sex Attribute
+>Kernel Density Estimation for Age of Students.
+>Count PLot for Male & Female students in different age groups.
+>Count Plot for students from Urban & Rural Region.
+>Does age affect final grade?
+>Do urban students perform better than rural students?
+>Previous Failures vs Final Grade(G3)
+>Family Education vs Final Grade(G3)
+>Higher Education vs Final Grade(G3)
+>Go Out vs Final Grade(G3)
+>Reason vs Students Count
