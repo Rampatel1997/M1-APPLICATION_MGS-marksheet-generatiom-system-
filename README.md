@@ -2,7 +2,7 @@
 
 [![Codacy Badge](https://api.codiga.io/project/29871/score/svg)]
 [![Codacy Badge](https://api.codiga.io/project/29871/status/svg)]
-
+[![Codacy Badge](https://app.codiga.io/public/project/29871/M1_Application_Marksheet_Generation_System/dashboard)]
 
 INTRODUCTION:>
 
