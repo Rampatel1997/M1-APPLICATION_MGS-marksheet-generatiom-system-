@@ -1,7 +1,7 @@
 # M1_APPLICATION_MGS-marksheet-generatiom-system-
 
 [![Codacy Badge](https://api.codiga.io/project/29871/score/svg)]
-
+[![Codacy Badge](https://api.codiga.io/project/29871/status/svg)]
 
 
 INTRODUCTION:>
