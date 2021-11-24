@@ -1,5 +1,5 @@
 # M1_APPLICATION_MGS-marksheet-generatiom-system-
-MGS (marksheet generation system) 
+
 INTRODUCTION:>
 
 Mark sheet generation will reduce the time to create the marks card of the student. The University only needs to upload the marks of student in each subject and then the system will complete rest of the work like calculating total marks, calculating percentage, giving grades and produce digital result. The computers are much faster than the human, and hence it will take less time to produce the result. The University management can also change the procedure to produce the result if they want. This application can also reduce the cost because it involves only person from user side to generate student marksheets.
